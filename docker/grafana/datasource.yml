@@ -1,0 +1,6 @@
+apiVersion: 1
+
+datasources:
+  - name: Demo
+    type: prometheus
+    url: http://prometheus:9090
